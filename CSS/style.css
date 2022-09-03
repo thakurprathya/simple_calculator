@@ -1,0 +1,15 @@
+ /*changing fontsize of input box automatically changes its height*/
+ *{margin: 0; padding: 0;}
+ nav{background-color:black; height: 9vh; font-size: 2vw; font-family:'Courier New', Courier, monospace;}
+ nav div{padding: 12px;}
+ nav div a{color: white; padding: 5px; text-decoration: none;}
+ .container{margin:7vh auto auto; display:flex; justify-content: center; align-items: center; flex-direction: column;
+     background-color:black; padding: 4vh; width: 20vw; border-radius: 20px;}
+ #screen{height:7vh; width: 18vw; margin-bottom: 1vh; font-size: 32px; background-color:black; color: white;
+     border: 2px solid white; border-radius: 10px; padding-left: 8px; padding-right: 8px; text-align: right;}
+ button{background-color: rgb(247, 163, 7); height:6vh; width:4.1vw; font-weight:bold; border-radius:15px;
+     margin:3px; font-size:1.3vw; border: none;}
+ tbody{font-size:23px;}
+ #equalto{width: 10vw; border-radius: 15px;}
+ .grey{background-color: rgb(172, 163, 163);}
+ .light-black{color: white; background-color:rgba(66, 65, 65, 0.74);}

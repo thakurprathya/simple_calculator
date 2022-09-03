@@ -1,0 +1,16 @@
+@media screen and (max-width:950px){
+    nav{font-size: 3vw;}
+    .container{width: 30vw;}
+    #screen{width:27vw;}
+    button{font-size: 1.8vw;  width: 6vw;}
+    #equalto{width: 15vw;  }
+}
+@media screen and (max-width:600px){
+    nav{height:7vh;  font-size: 5vw;}
+    nav div{padding:15px;}
+    nav div a{padding:1vh;}
+    .container{width: 50vw; height:44vh;}
+    #screen{width: 47vw;}
+    button{height: 5.5vh;  width:11vw;  font-size: 4vw;}
+    #equalto{width: 25vw;  }
+}
