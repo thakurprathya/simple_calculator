@@ -1,2 +1,5 @@
-# simple_calculator
-A simple calculator using HTML, CSS, JavaScript
+# Simple Calculator
+
+using HTML, CSS &amp; JavaScript
+
+App Link : https://thakurprathya.github.io/simple_calculator/
